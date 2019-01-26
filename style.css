@@ -1,0 +1,57 @@
+body{
+text-align: center;
+background-image: url("https://media.giphy.com/media/xT9IgkiK459Cvd5tIs/giphy.gif");
+}
+
+h1 {
+  /*font-size: 4em;*/
+  font-family: arial, serif;
+  /*font-family: 'Coiny',cursive;*/
+}
+
+#Little{
+  background-color: rgb(66, 244, 185);
+}
+
+.favorite{
+  color: #ef3ee6;
+}
+
+h2, h3{
+  font-family: arial, serif;
+  font-family: 'Coiny', cursive;
+}
+
+#line {
+  font-family: 'Merienda', cursive;
+  /* font-family: 'Six Caps', sans-serif; */
+  border:10px solid purple;
+  margin-left:10%;
+  margin-right:10%;
+
+}
+
+.fav{
+  border:10px solid purple;
+  margin-left:10%;
+  margin-right: 10%;
+}
+img {
+  width:300px;
+  height:200px;
+  padding:20px 20px 20px 20px;
+  border: 1px red;
+}
+.fav{
+  border:10px solid purple;
+  margin-left":10%;
+  margin-right:10%;
+}
+#this {
+  border-top: 20px solid purple;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+p{
+  font-family: 'Merienda', cursive;
+}
