@@ -1,5 +1,5 @@
 body{
-  background-color:#ff6699;
+  background-color: rgb(255,128,170);
 }
 #s{
   box-shadow: 10px 10px 5px #696969	;
@@ -24,7 +24,9 @@ background-color:#fc8b94;
 /* padding:0px;
 border:0px; */
 }
-
+#orange{
+  background-color: #ff6699;
+}
 /* #light{
 background-color: rgb(255,128,170);
 padding:0px;
