@@ -49,6 +49,10 @@ h3{
   color: white;
   font-weight: 100;
 }
+#line{
+  margin: 400px;
+  color: black;
+}
 #B{
   /* font-family: 'Oswald', sans-serif; */
   font-family: 'Homenaje', sans-serif;
