@@ -1,3 +1,5 @@
+$(document).ready(function(){
+  //ALL CODE HERE
 let myAlbum = {
   name: "MAP OF SOUL: PERSONA",
   price: "$22",
@@ -55,3 +57,4 @@ let summaryDisplay3 = `
 `
 $("#album-info2").append(infoDisplay3)
 $("#album-summary2").append(summaryDisplay3)
+});
