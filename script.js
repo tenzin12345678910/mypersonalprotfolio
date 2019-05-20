@@ -8,7 +8,7 @@ let myAlbum = {
 }
 
 let infoDisplay = `
-  <h1> Album Name: ${myAlbum["name"]} </h1>
+  <h3> Album Name: ${myAlbum["name"]} </h3>
   <p> Cost: ${myAlbum["price"]} </p>
   <p> Fan Rating: ${myAlbum["rating"]} out of 5 </p>
 `
@@ -28,7 +28,7 @@ let myAlbum2 = {
 }
 
 let infoDisplay2 = `
-  <h1> Album Name: ${myAlbum2["name"]} </h1>
+  <h3> Album Name: ${myAlbum2["name"]} </h3>
   <p> Cost: ${myAlbum2["price"]} </p>
   <p> Fan Rating: ${myAlbum2["rating"]} out of 5 </p>
 `
@@ -43,11 +43,11 @@ let myAlbum3 = {
   name: "LOVE YOURSELF 結‘TEAR’",
   price: "$19",
   rating: 4.7,
-  summary: ""
+  summary: "BTS’ LOVE YOURSELF series bears the message that loving oneself is the beginning of true love. Whereas the previously unveiled LOVE YOURSELF 起 ‘WONDER’ and LOVE YOURSELF 承 ‘HER’ albums expressed the heart-fluttering and tingling moments of love, LOVE YOURSELF 轉 ‘TEAR’ album embodies the pain of boys faced with parting."
 }
 
 let infoDisplay3 = `
-  <h1> Album Name: ${myAlbum3["name"]} </h1>
+  <h3> Album Name: ${myAlbum3["name"]} </h3>
   <p> Cost: ${myAlbum3["price"]} </p>
   <p> Fan Rating: ${myAlbum3["rating"]} out of 5 </p>
 `
@@ -65,7 +65,7 @@ let myAlbum4 = {
 }
 
 let infoDisplay4 = `
-  <h1> Album Name: ${myAlbum4["name"]} </h1>
+  <h3> Album Name: ${myAlbum4["name"]} </h3>
   <p> Cost: ${myAlbum4["price"]} </p>
   <p> Fan Rating: ${myAlbum4["rating"]} out of 5 </p>
 `
@@ -83,7 +83,7 @@ let myAlbum5 = {
 }
 
 let infoDisplay5 = `
-  <h1> Album Name: ${myAlbum5["name"]} </h1>
+  <h3> Album Name: ${myAlbum5["name"]} </h3>
   <p> Cost: ${myAlbum5["price"]} </p>
   <p> Fan Rating: ${myAlbum5["rating"]} out of 5 </p>
 `
@@ -101,7 +101,7 @@ let myAlbum6 = {
 }
 
 let infoDisplay6 = `
-  <h1> Album Name: ${myAlbum6["name"]} </h1>
+  <h3> Album Name: ${myAlbum6["name"]} </h3>
   <p> Cost: ${myAlbum6["price"]} </p>
   <p> Fan Rating: ${myAlbum6["rating"]} out of 5 </p>
 `
@@ -119,7 +119,7 @@ let myAlbum7 = {
 }
 
 let infoDisplay7 = `
-  <h1> Album Name: ${myAlbum7["name"]} </h1>
+  <h3> Album Name: ${myAlbum7["name"]} </h3>
   <p> Cost: ${myAlbum7["price"]} </p>
   <p> Fan Rating: ${myAlbum7["rating"]} out of 5 </p>
 `
@@ -137,7 +137,7 @@ let myAlbum8 = {
 }
 
 let infoDisplay8 = `
-  <h1> Album Name: ${myAlbum8["name"]} </h1>
+  <h3> Album Name: ${myAlbum8["name"]} </h3>
   <p> Cost: ${myAlbum8["price"]} </p>
   <p> Fan Rating: ${myAlbum8["rating"]} out of 5 </p>
 `
@@ -155,7 +155,7 @@ let myAlbum9 = {
 }
 
 let infoDisplay9 = `
-  <h1> Album Name: ${myAlbum9["name"]} </h1>
+  <h3> Album Name: ${myAlbum9["name"]} </h3>
   <p> Cost: ${myAlbum9["price"]} </p>
   <p> Fan Rating: ${myAlbum9["rating"]} out of 5 </p>
 `
@@ -173,7 +173,7 @@ let myAlbum10 = {
 }
 
 let infoDisplay10 = `
-  <h1> Album Name: ${myAlbum10["name"]} </h1>
+  <h3> Album Name: ${myAlbum10["name"]} </h3>
   <p> Cost: ${myAlbum10["price"]} </p>
   <p> Fan Rating: ${myAlbum10["rating"]} out of 5 </p>
 `
@@ -191,7 +191,7 @@ let myAlbum11 = {
 }
 
 let infoDisplay11 = `
-  <h1> Album Name: ${myAlbum11["name"]} </h1>
+  <h3> Album Name: ${myAlbum11["name"]} </h3>
   <p> Cost: ${myAlbum11["price"]} </p>
   <p> Fan Rating: ${myAlbum11["rating"]} out of 5 </p>
 `
@@ -209,7 +209,7 @@ let myAlbum12 = {
 }
 
 let infoDisplay12 = `
-  <h1> Album Name: ${myAlbum12["name"]} </h1>
+  <h3> Album Name: ${myAlbum12["name"]} </h3>
   <p> Cost: ${myAlbum12["price"]} </p>
   <p> Fan Rating: ${myAlbum12["rating"]} out of 5 </p>
 `
@@ -227,7 +227,7 @@ let myAlbum13 = {
 }
 
 let infoDisplay13 = `
-  <h1> Album Name: ${myAlbum13["name"]} </h1>
+  <h3> Album Name: ${myAlbum13["name"]} </h3>
   <p> Cost: ${myAlbum13["price"]} </p>
   <p> Fan Rating: ${myAlbum13["rating"]} out of 5 </p>
 `
