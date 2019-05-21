@@ -4,6 +4,9 @@ body{
 #s{
   box-shadow: 10px 10px 5px #696969	;
 }
+#big{
+  font-size: 70px;
+}
 #i{
   font-family: 'Montserrat', sans-serif;
   font-weight:lighter;

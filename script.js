@@ -11,16 +11,18 @@ let infoDisplay = `
   <h3> Album Name: ${myAlbum["name"]} </h3>
   <p> Cost: ${myAlbum["price"]} </p>
   <p> Fan Rating: ${myAlbum["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum["summary"]} </p>
+
 `
 
-let summaryDisplay = `
-<p> Official Summary: ${myAlbum["summary"]} </p>
-`
+// let summaryDisplay = `
+// <p> Official Summary: ${myAlbum["summary"]} </p>
+// `
 
 
 
 $("#album-info").append(infoDisplay)
-$("#album-summary").append(summaryDisplay)
+// $("#album-summary").append(summaryDisplay)
 // loveyourself Answer
 let myAlbum2 = {
   name: "repackaged album LOVE YOURSELF 結‘ANSWER’",
@@ -33,13 +35,14 @@ let infoDisplay2 = `
   <h3> Album Name: ${myAlbum2["name"]} </h3>
   <p> Cost: ${myAlbum2["price"]} </p>
   <p> Fan Rating: ${myAlbum2["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum2["summary"]} </p>
 `
 
-let summaryDisplay2 = `
-<p> Official Summary: ${myAlbum2["summary"]} </p>
-`
+// let summaryDisplay2 = `
+// <p> Official Summary: ${myAlbum2["summary"]} </p>
+// `
 $("#album-info2").append(infoDisplay2)
-$("#album-summary2").append(summaryDisplay2)
+// $("#album-summary2").append(summaryDisplay2)
 //number3
 let myAlbum3 = {
   name: "LOVE YOURSELF 結‘TEAR’",
@@ -52,13 +55,15 @@ let infoDisplay3 = `
   <h3> Album Name: ${myAlbum3["name"]} </h3>
   <p> Cost: ${myAlbum3["price"]} </p>
   <p> Fan Rating: ${myAlbum3["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum3["summary"]} </p>
+
 `
 
-let summaryDisplay3 = `
-<p> Official Summary: ${myAlbum3["summary"]} </p>
-`
+// let summaryDisplay3 = `
+// <p> Official Summary: ${myAlbum3["summary"]} </p>
+// `
 $("#album-info3").append(infoDisplay3)
-$("#album-summary3").append(summaryDisplay3)
+// $("#album-summary3").append(summaryDisplay3)
 let myAlbum4 = {
   name: "LOVE YOURSELF承‘HER’",
   price: "$19",
@@ -70,13 +75,15 @@ let infoDisplay4 = `
   <h3> Album Name: ${myAlbum4["name"]} </h3>
   <p> Cost: ${myAlbum4["price"]} </p>
   <p> Fan Rating: ${myAlbum4["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum4["summary"]} </p>
+
 `
 
-let summaryDisplay4 = `
-<p> Official Summary: ${myAlbum4["summary"]} </p>
-`
+// let summaryDisplay4 = `
+// <p> Official Summary: ${myAlbum4["summary"]} </p>
+// `
 $("#album-info4").append(infoDisplay4)
-$("#album-summary4").append(summaryDisplay4)
+// $("#album-summary4").append(summaryDisplay4)
 let myAlbum5 = {
   name: "YOU NEVER WALK ALONE",
   price: "$19",
@@ -88,13 +95,15 @@ let infoDisplay5 = `
   <h3> Album Name: ${myAlbum5["name"]} </h3>
   <p> Cost: ${myAlbum5["price"]} </p>
   <p> Fan Rating: ${myAlbum5["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum5["summary"]} </p>
+
 `
 
-let summaryDisplay5 = `
-<p> Official Summary: ${myAlbum5["summary"]} </p>
-`
-$("#album-info5").append(infoDisplay4)
-$("#album-summary5").append(summaryDisplay4)
+// let summaryDisplay5 = `
+// <p> Official Summary: ${myAlbum5["summary"]} </p>
+// `
+$("#album-info5").append(infoDisplay5)
+// $("#album-summary5").append(summaryDisplay4)
 let myAlbum6 = {
   name: "WINGS",
   price: "$19",
@@ -106,13 +115,14 @@ let infoDisplay6 = `
   <h3> Album Name: ${myAlbum6["name"]} </h3>
   <p> Cost: ${myAlbum6["price"]} </p>
   <p> Fan Rating: ${myAlbum6["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum6["summary"]} </p>
 `
 
-let summaryDisplay6 = `
-<p> Official Summary: ${myAlbum6["summary"]} </p>
-`
-$("#album-info6").append(infoDisplay4)
-$("#album-summary6").append(summaryDisplay4)
+// let summaryDisplay6 = `
+// <p> Official Summary: ${myAlbum6["summary"]} </p>
+// `
+$("#album-info6").append(infoDisplay6)
+// $("#album-summary6").append(summaryDisplay4)
 let myAlbum7 = {
   name: "THE MOST BEAUTIFUL MOMENT IN LIFE : YOUNG FOREVER",
   price: "$29.65",
@@ -124,13 +134,14 @@ let infoDisplay7 = `
   <h3> Album Name: ${myAlbum7["name"]} </h3>
   <p> Cost: ${myAlbum7["price"]} </p>
   <p> Fan Rating: ${myAlbum7["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum7["summary"]} </p>
 `
 
-let summaryDisplay7 = `
-<p> Official Summary: ${myAlbum7["summary"]} </p>
-`
-$("#album-info7").append(infoDisplay4)
-$("#album-summary7").append(summaryDisplay4)
+// let summaryDisplay7 = `
+// <p> Official Summary: ${myAlbum7["summary"]} </p>
+// `
+$("#album-info7").append(infoDisplay7)
+// $("#album-summary7").append(summaryDisplay4)
 let myAlbum8 = {
   name: "THE MOST BEAUTIFUL MOMENT IN LIFE PT.2",
   price: "$22.98",
@@ -142,13 +153,14 @@ let infoDisplay8 = `
   <h3> Album Name: ${myAlbum8["name"]} </h3>
   <p> Cost: ${myAlbum8["price"]} </p>
   <p> Fan Rating: ${myAlbum8["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum8["summary"]} </p>
 `
 
-let summaryDisplay8 = `
-<p> Official Summary: ${myAlbum8["summary"]} </p>
-`
-$("#album-info8").append(infoDisplay4)
-$("#album-summary8").append(summaryDisplay4)
+// let summaryDisplay8 = `
+// <p> Official Summary: ${myAlbum8["summary"]} </p>
+// `
+$("#album-info8").append(infoDisplay8)
+// $("#album-summary8").append(summaryDisplay4)
 let myAlbum9 = {
   name: "THE MOST BEAUTIFUL MOMENT IN LIFE PT.1",
   price: "$21.30",
@@ -160,13 +172,14 @@ let infoDisplay9 = `
   <h3> Album Name: ${myAlbum9["name"]} </h3>
   <p> Cost: ${myAlbum9["price"]} </p>
   <p> Fan Rating: ${myAlbum9["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum9["summary"]} </p>
 `
 
-let summaryDisplay9 = `
-<p> Official Summary: ${myAlbum9["summary"]} </p>
-`
-$("#album-info9").append(infoDisplay4)
-$("#album-summary9").append(summaryDisplay4)
+// let summaryDisplay9 = `
+// <p> Official Summary: ${myAlbum9["summary"]} </p>
+// `
+$("#album-info9").append(infoDisplay9)
+// $("#album-summary9").append(summaryDisplay4)
 let myAlbum10 = {
   name: "DARK & WILD",
   price: "$23.98",
@@ -178,13 +191,14 @@ let infoDisplay10 = `
   <h3> Album Name: ${myAlbum10["name"]} </h3>
   <p> Cost: ${myAlbum10["price"]} </p>
   <p> Fan Rating: ${myAlbum10["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum10["summary"]} </p>
 `
 
-let summaryDisplay10 = `
-<p> Official Summary: ${myAlbum10["summary"]} </p>
-`
-$("#album-info10").append(infoDisplay4)
-$("#album-summary10").append(summaryDisplay4)
+// let summaryDisplay10 = `
+// <p> Official Summary: ${myAlbum10["summary"]} </p>
+// `
+$("#album-info10").append(infoDisplay10)
+// $("#album-summary10").append(summaryDisplay4)
 let myAlbum11 = {
   name: "SKOOL LUV AFFAIR",
   price: "$23.99",
@@ -196,13 +210,14 @@ let infoDisplay11 = `
   <h3> Album Name: ${myAlbum11["name"]} </h3>
   <p> Cost: ${myAlbum11["price"]} </p>
   <p> Fan Rating: ${myAlbum11["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum11["summary"]} </p>
 `
 
-let summaryDisplay11 = `
-<p> Official Summary: ${myAlbum11["summary"]} </p>
-`
-$("#album-info11").append(infoDisplay4)
-$("#album-summary11").append(summaryDisplay4)
+// let summaryDisplay11 = `
+// <p> Official Summary: ${myAlbum11["summary"]} </p>
+// `
+$("#album-info11").append(infoDisplay11)
+// $("#album-summary11").append(summaryDisplay4)
 let myAlbum12 = {
   name: "O!RUL8,2?",
   price: "$19.53",
@@ -214,13 +229,14 @@ let infoDisplay12 = `
   <h3> Album Name: ${myAlbum12["name"]} </h3>
   <p> Cost: ${myAlbum12["price"]} </p>
   <p> Fan Rating: ${myAlbum12["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum12["summary"]} </p>
 `
 
-let summaryDisplay12 = `
-<p> Official Summary: ${myAlbum12["summary"]} </p>
-`
-$("#album-info12").append(infoDisplay4)
-$("#album-summary12").append(summaryDisplay4)
+// let summaryDisplay12 = `
+// <p> Official Summary: ${myAlbum12["summary"]} </p>
+// `
+$("#album-info12").append(infoDisplay12)
+// $("#album-summary12").append(summaryDisplay4)
 let myAlbum13 = {
   name: "2 COOL 4 SKOOL",
   price: "$19",
@@ -232,12 +248,13 @@ let infoDisplay13 = `
   <h3> Album Name: ${myAlbum13["name"]} </h3>
   <p> Cost: ${myAlbum13["price"]} </p>
   <p> Fan Rating: ${myAlbum13["rating"]} out of 5 </p>
+  <p> Official Summary: ${myAlbum13["summary"]} </p>
 `
 
-let summaryDisplay13 = `
-<p> Official Summary: ${myAlbum13["summary"]} </p>
-`
-$("#album-info13").append(infoDisplay4)
-$("#album-summary13").append(summaryDisplay4)
+// let summaryDisplay13 = `
+// <p> Official Summary: ${myAlbum13["summary"]} </p>
+// `
+$("#album-info13").append(infoDisplay13)
+// $("#album-summary13").append(summaryDisplay4)
 
 });
