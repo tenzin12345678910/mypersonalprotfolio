@@ -17,6 +17,8 @@ let summaryDisplay = `
 <p> Official Summary: ${myAlbum["summary"]} </p>
 `
 
+
+
 $("#album-info").append(infoDisplay)
 $("#album-summary").append(summaryDisplay)
 // loveyourself Answer
